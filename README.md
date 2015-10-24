@@ -1,2 +1,4 @@
 # hello-world
-Hello repository
+Hello repository!
+
+Salut! Hallo! Ciao! Ahoj! Bog! Hej! Kon'nichiwa! Marhaba! Olà!
